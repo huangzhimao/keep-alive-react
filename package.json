@@ -1,6 +1,6 @@
 {
   "name": "keep-react-alive",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "react版本的keep-alive组件",
   "main": "index.js",
   "scripts": {

@@ -7,9 +7,9 @@
 ## 2. 下载
 
 ```bash
-npm install keepalive-react-component --save
+npm install keep-react-alive --save
 # or
-yarn add keepalive-react-component
+yarn add keep-react-alive
 ```
 
 
